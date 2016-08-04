@@ -1,0 +1,5 @@
+xcuserdata
+project.xcworkspace/xcuserdata
+*.o
+lua
+luac
